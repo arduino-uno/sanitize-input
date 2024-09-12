@@ -1,8 +1,8 @@
 # Sanitize Input
  Sanitize the input text from the malicious code.
 
+## Screenshot
 <p align="center"><img src="sanitize-input.png" alt="sanitize-input" title="Sanitize Input"></p>
-
 
 ## Functions
 ```php
