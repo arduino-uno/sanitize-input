@@ -2,7 +2,7 @@
  Sanitize the input text from the malicious code.
 
 ## Screenshot
-  ![sanitize-input](https://raw.githubusercontent.com/arduino-uno/sanitize-input/main/sanitize-input.png)
+    ![screen-shot](https://raw.githubusercontent.com/arduino-uno/sanitize-input/main/sanitize-input.png)
 
 ## Functions
 ```php
