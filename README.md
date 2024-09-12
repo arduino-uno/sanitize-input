@@ -1,5 +1,8 @@
-# sanitize-input
+# Sanitize Input
  Sanitize the input text from the malicious code.
+
+## Screenshot
+  ![sanitize-input](https://raw.githubusercontent.com/arduino-uno/sanitize-input/main/sanitize-input.png)
 
 ## Functions
 ```php
@@ -86,8 +89,4 @@
 
 * This is an open source project and free.
 * Share our repository.
-
-## Thanks to:
-* [@HankBrown](https://github.com/HankBrown)
-* [@remotemethod](https://github.com/remotemethod)
 
